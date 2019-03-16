@@ -1,0 +1,9 @@
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\obj\Debug\Complicated calculator.csprojAssemblyReference.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\obj\Debug\Complicated calculator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\bin\Debug\Complicated calculator.exe.config
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\bin\Debug\Complicated calculator.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\bin\Debug\Complicated calculator.pdb
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\obj\Debug\Complicated calculator.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week5\day2\Complicated calculator\Complicated calculator\obj\Debug\Complicated calculator.pdb
+C:\Users\Sulma\Desktop\Advanced_Calculator\Complicated calculator\obj\Debug\Complicated calculator.exe
+C:\Users\Sulma\Desktop\Advanced_Calculator\Complicated calculator\obj\Debug\Complicated calculator.pdb
